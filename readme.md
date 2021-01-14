@@ -7,4 +7,6 @@ Using Python or PowerShell, how to extract a JSON payload in a Lambda function t
 2. An SQS queue is subscribed to this topic and receives the message.
 3. A Lambda function is invoked when a message is present in the queue.
 
+#### Additional Resources
+[AWS pub-sub messaging](https://aws.amazon.com/pub-sub-messaging/)
 
